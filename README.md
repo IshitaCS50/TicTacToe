@@ -1,3 +1,3 @@
 # Tic Tac Toeeee
 
-Practising my C skills
+Practising my C skills.
