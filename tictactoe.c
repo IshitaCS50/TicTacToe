@@ -4,12 +4,12 @@ bool valid(int,int);
 
 int main(void)
 {
-	printf("Let the games begin!!\nyour tictactoe table is below\n
-			Good Luck Player A!!\n| | \n-------\n  | | \n-------\n  | | \n");
+	printf("Let the games begin!!\nyour tictactoe table is below\nGood Luck Player A!!\n| | \n-------\n  | | \n-------\n  | | \n");
 	
 	printf("Player A's turn\n");
 
-	int x,y;
+	int x; 
+	int y;
 	
 	do
 	{
