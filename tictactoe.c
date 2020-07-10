@@ -4,7 +4,7 @@ bool valid(int,int);
 
 int main(void)
 {
-	printf("Let the games begin!!\nyour tictactoe table is below\nGood Luck Player A!!\n| | \n-------\n  | | \n-------\n  | | \n");
+	printf("Let the games begin!!\nYour tictactoe table is below\nGood Luck Player A!!\n  | | \n-------\n  | | \n-------\n  | | \n");
 	
 	printf("Player A's turn\n");
 
